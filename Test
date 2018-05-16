@@ -3,4 +3,4 @@
 basedir=$(cd "$(dirname "$0")" && pwd -P)
 
 cd "$basedir"
-python hello.py
+pytest hello.py
