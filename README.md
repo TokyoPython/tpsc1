@@ -14,4 +14,4 @@ People working on this project include:
 * Mateusz Bysiek ([mbdevpl](https://github.com/mbdevpl))
 * Manish Dangol ([dangol manish](https://github.com/dangolmanish))
 * Anand D. Joshi ([flypicaso](https://github.com/flypicaso))
-
+* Reiko Kobayashi ([reyrey007](https://github.com/reyrey007))
