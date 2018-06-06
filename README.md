@@ -59,3 +59,11 @@ People working on this project include:
 * Manish Dangol ([dangol manish](https://github.com/dangolmanish))
 * Anand D. Joshi ([flypicaso](https://github.com/flypicaso))
 * Reiko Kobayashi ([reyrey007](https://github.com/reyrey007))
+
+#### Chat
+
+TPSC has [chatrooms on Gitter][gitter]. You can read messages without
+logging in, but you will need to sign in with your GitHub, GitLab or
+Twitter account to write messages.
+
+[gitter]: https://gitter.im/TokyoPython
