@@ -60,10 +60,13 @@ People working on this project include:
 * Anand D. Joshi ([flypicaso](https://github.com/flypicaso))
 * Reiko Kobayashi ([reyrey007](https://github.com/reyrey007))
 
-#### Chat
+#### Communications
 
 TPSC has [chatrooms on Gitter][gitter]. You can read messages without
 logging in, but you will need to sign in with your GitHub, GitLab or
 Twitter account to write messages.
 
+Meeting information is on [Meetup].
+
 [gitter]: https://gitter.im/TokyoPython
+[meetup]: https://www.meetup.com/TokyoPythonSocietyClub/
